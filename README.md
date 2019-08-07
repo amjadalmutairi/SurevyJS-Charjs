@@ -1,2 +1,2 @@
-# SurevyJS-Charjs
-Plot SurevyJS results with Charjs lib &amp; tabbed Bootstrap modal.
+# SurevyJS-Chartjs
+Plot SurevyJS results with Chartjs lib &amp; tabbed Bootstrap modal.
